@@ -1,4 +1,14 @@
+/* use custom fonts */
+@font-face {
+    font-family: "MyFont";
+    src: url("./Drop Stay 2.ttf") format("ttf"),
+        url("./Drop Stay.ttf") format("ttf");
+    font-weight: 800;
+    font-style: normal;
+}
+
 .hello {
     color: red;
+    font-family: "MyFont";
     background: url("./icon.jpg");
 }
