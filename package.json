@@ -1,24 +1,24 @@
 {
-  "name": "Intro_to_Webpack",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JustinSHong/Intro_to_Webpack.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JustinSHong/Intro_to_Webpack/issues"
-  },
-  "homepage": "https://github.com/JustinSHong/Intro_to_Webpack#readme",
-  "devDependencies": {
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
-  }
+    "name": "Intro_to_Webpack",
+    "version": "1.0.0",
+    "description": "",
+    "private": "true",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JustinSHong/Intro_to_Webpack.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JustinSHong/Intro_to_Webpack/issues"
+    },
+    "homepage": "https://github.com/JustinSHong/Intro_to_Webpack#readme",
+    "devDependencies": {
+        "webpack": "^4.20.2",
+        "webpack-cli": "^3.1.2"
+    }
 }
